@@ -1,0 +1,9 @@
+transformers
+datasets
+evaluate
+scikit-learn
+peft
+accelerate
+papermill
+jupyter
+
