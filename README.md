@@ -5,6 +5,7 @@ dataset download link: https://www.kaggle.com/datasets/johoetter/sap-press-relea
 ## Setup
 ```bash
 python -m pip install -r requirements.txt
+```
 
 ## How to use
 
